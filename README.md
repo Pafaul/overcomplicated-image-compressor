@@ -1,6 +1,7 @@
 # What I'd like to do here
 
-Create intentionally overcomplicated image compressor service, which i'll use to learn a bit about gRPC, protobufs and some message queues.
+Create intentionally overcomplicated image compressor service, 
+which I'll use to learn a bit about gRPC, protobuf and some message queues.
 
 # Design
 
@@ -33,10 +34,11 @@ If we are talking technology-wise:
                └──┘                                   
 ```
 
-This is what I'd like to achive, but we all know how it goes :-)
+This is what I'd like to achieve, but we all know how it goes :-)
 
 # Important addition
 
-This readme is created before the code so i'll have some reference point, so something might change before it's shown in readme
+This readme is created before the code, so I'll have some reference point, 
+so something might change before it's shown in readme
 
 Yes, the .idea files are left intentional
