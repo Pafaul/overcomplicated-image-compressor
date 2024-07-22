@@ -38,3 +38,5 @@ This is what I'd like to achive, but we all know how it goes :-)
 # Important addition
 
 This readme is created before the code so i'll have some reference point, so something might change before it's shown in readme
+
+Yes, the .idea files are left intentional
