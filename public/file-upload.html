@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>File upload</title>
+</head>
+<body>
+    <h1>Upload file</h1>
+    <form action="/request/" method="post" enctype="multipart/form-data">
+        <label for="clientId">Input client id</label>
+        <input type="number" id="clientId" name="clientId"/>
+        <br/>
+        <label for="file">Chose file to upload</label>
+        <input type="file" id="file" name="file" accept="image/*" required/>
+        <br/>
+        <button type="submit">Perform request</button>
+    </form>
+</body>
+</html>
